@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marketeer/static/css/main.e6c13ad2.css",
+    "main.js": "/marketeer/static/js/main.afbcad7f.js",
+    "static/js/453.0edd970a.chunk.js": "/marketeer/static/js/453.0edd970a.chunk.js",
+    "index.html": "/marketeer/index.html",
+    "main.e6c13ad2.css.map": "/marketeer/static/css/main.e6c13ad2.css.map",
+    "main.afbcad7f.js.map": "/marketeer/static/js/main.afbcad7f.js.map",
+    "453.0edd970a.chunk.js.map": "/marketeer/static/js/453.0edd970a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.afbcad7f.js"
+  ]
+}
