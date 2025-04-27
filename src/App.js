@@ -71,7 +71,7 @@ function App() {
                         <h3>Magna feugiat lorem</h3>
                         <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
                         <ul className="actions special">
-                            <li><a href="#" className="button">More</a></li>
+                            <li><a href="#more" className="button">More</a></li>
                         </ul>
                     </div>
                     <div className="col-4 col-12-medium">
@@ -79,7 +79,7 @@ function App() {
                         <h3>Magna feugiat lorem</h3>
                         <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
                         <ul className="actions special">
-                            <li><a href="#" className="button">More</a></li>
+                            <li><a href="#more" className="button">More</a></li>
                         </ul>
                     </div>
                     <div className="col-4 col-12-medium">
@@ -87,7 +87,7 @@ function App() {
                         <h3>Magna feugiat lorem</h3>
                         <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
                         <ul className="actions special">
-                            <li><a href="#" className="button">More</a></li>
+                            <li><a href="#more" className="button">More</a></li>
                         </ul>
                     </div>
                 </div>
@@ -101,8 +101,8 @@ function App() {
                 </header>
                 <p>Sed lacus nascetur ac ante amet sapien.</p>
                 <ul className="actions special">
-                    <li><a href="#" className="button wide primary">Sign Up</a></li>
-                    <li><a href="#" className="button wide">Learn More</a></li>
+                    <li><a href="#signup" className="button wide primary">Sign Up</a></li>
+                    <li><a href="#more" className="button wide">Learn More</a></li>
                 </ul>
             </div>
         </section>
@@ -110,11 +110,11 @@ function App() {
     
         <section id="footer">
             <ul className="icons">
-                <li><a href="#" className="icon brands alt fa-twitter"><span className="label">Twitter</span></a></li>
-                <li><a href="#" className="icon brands alt fa-facebook-f"><span className="label">Facebook</span></a></li>
-                <li><a href="#" className="icon brands alt fa-instagram"><span className="label">Instagram</span></a></li>
-                <li><a href="#" className="icon brands alt fa-github"><span className="label">GitHub</span></a></li>
-                <li><a href="#" className="icon solid alt fa-envelope"><span className="label">Email</span></a></li>
+                <li><a href="./" className="icon brands alt fa-twitter"><span className="label">Twitter</span></a></li>
+                <li><a href="./" className="icon brands alt fa-facebook-f"><span className="label">Facebook</span></a></li>
+                <li><a href="./" className="icon brands alt fa-instagram"><span className="label">Instagram</span></a></li>
+                <li><a href="./" className="icon brands alt fa-github"><span className="label">GitHub</span></a></li>
+                <li><a href="./" className="icon solid alt fa-envelope"><span className="label">Email</span></a></li>
             </ul>
             <ul className="copyright">
                 <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
