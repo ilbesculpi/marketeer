@@ -37,27 +37,6 @@ This repository primarily serves as the source code for my deployed portfolio. H
 
     This will typically run the application in your browser at `http://localhost:3000`.
 
-## Templates
+## Template
 
-[Theme Wagon](https://themewagon.com/theme-tag/portfolio-template/?swoof=1&pa_price=free&paged=1&really_curr_tax=398-product_tag)
-
-[Kelly](https://themewagon.github.io/Kelly/portfolio.html)
-
-[Mark](https://themewagon.github.io/mark/)
-
-[Kross](https://themewagon.github.io/kross/)
-
-[VIDEOGRAPH](https://themewagon.github.io/videograph/)
-
-[Girly](https://technext.github.io/girly/index.html)
-
-[MEETME](https://themewagon.github.io/meetme/)
-
-[RONIN](https://themewagon.github.io/ronin/)
-
-[Micrology](https://html.design/demo/micrology/)
-
-[Personal Portfolio](https://themewagon.github.io/personal-portfolio/)
-
-[melan](https://themewagon.github.io/melan/)
-
+[Proton](https://html5up.net/photon)
